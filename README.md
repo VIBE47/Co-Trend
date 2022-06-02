@@ -1,1 +1,2 @@
 # Co-Trend
+This is an Trend analysis and data visualization of Covid Cases in the world using Python.I have used various Python libraries such as Matplotlib, Numpy, Pandas for making this project.From Kaggle I got the CSV file of the raw data. I filtered Data by droping some non significant attributes of the raw data and using simple functions of Pandas for grouping some of the attributes.I made a scatter plot graph using Matplotlib for every country's Confirmed, Recovered Covid cases and number of deaths till the last day of recording data.
